@@ -7,7 +7,7 @@ pub mod state;
 
 use instructions::*;
 
-declare_id!("AgVt6Bq8E82NLXhN5ZfXqvJxJZxu8XYD4P8RSFEYxJHd");
+declare_id!("Di62pbYoT7qJa5YE4vGEWtNKavDqaKvcoCwgg1ngYuvA");
 
 #[program]
 pub mod agentvault {
